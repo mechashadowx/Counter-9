@@ -1,7 +1,7 @@
 # Counter-9
 
 <br/>
-You can use to count something.<br/>
+You can use this app to count something.<br/>
 things I have used:<br/>
 1 - Firebase authentication<br/>
 2 - Login using google<br/>
